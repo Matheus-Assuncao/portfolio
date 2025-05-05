@@ -1,0 +1,18 @@
+/* Estilo base dos links */
+.link{
+    color: lightgray;             
+    text-decoration: underline;       
+    font-weight: 500;
+    transition: all 0.3s ease;   
+  }
+  
+
+  link:hover {
+    color: rgb(164, 163, 163);             
+    text-decoration: underline;  
+  }
+  
+  linl:visited {
+    color: rgba(211, 211, 211, 0.644);
+  }
+  
